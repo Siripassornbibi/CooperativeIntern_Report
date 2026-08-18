@@ -1,5 +1,7 @@
 # Simulink Requirement Generator
 
+<a href="https://drive.google.com/file/d/17DpfUZpcBPMGXbAYhODUrVR4uPDLpmQL/view?usp=sharing"> 🚗 My Report Link </a>
+
 ระบบสร้างเอกสารข้อกำหนด (Software Requirement Specification) จากไฟล์ MATLAB Simulink (.slx) โดยอัตโนมัติ ด้วยการประยุกต์ใช้ Large Language Model (LLM) ที่พัฒนาโดยองค์กรร่วมกับแนวทาง Retrieval-Augmented Generation (RAG) เพื่อลดเวลาการจัดทำเอกสาร Software Requirement ที่แต่เดิมต้องทำแบบแมนนวล
 
 ---
