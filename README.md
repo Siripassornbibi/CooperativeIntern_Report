@@ -2,6 +2,8 @@
 
 <a href="https://drive.google.com/file/d/17DpfUZpcBPMGXbAYhODUrVR4uPDLpmQL/view?usp=sharing"> 🚗 My Report Link </a>
 
+<a href="https://drive.google.com/drive/folders/1GmHP5J3OgOaBf0fYYW2zBDnH1ehnrsde9l1tKwj1lZ2n16qlKXf2nHWUHv4Uztb74AFEYq1c?usp=drive_link"> 🚗 All relate documents </a>
+
 ระบบสร้างเอกสารข้อกำหนด (Software Requirement Specification) จากไฟล์ MATLAB Simulink (.slx) โดยอัตโนมัติ ด้วยการประยุกต์ใช้ Large Language Model (LLM) ที่พัฒนาโดยองค์กรร่วมกับแนวทาง Retrieval-Augmented Generation (RAG) เพื่อลดเวลาการจัดทำเอกสาร Software Requirement ที่แต่เดิมต้องทำแบบแมนนวล
 
 ---
